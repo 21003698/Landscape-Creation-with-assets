@@ -6,8 +6,8 @@ To Create a landscape using various assets and plugins.
 
 ## Procedure:
 ```
-Name:Challa.Sandeep.
-Reg.No:212221240037.
+Name:Challa Sandeep
+Reg.No:212221240011
 ```
 1.Create a new Third person view project in Unreal engine.
 
